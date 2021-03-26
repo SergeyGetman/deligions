@@ -1,0 +1,102 @@
+/* body {
+    background-color: rgb(233, 206, 206);
+}
+
+.centre {
+    position: absolute;
+    height: 700px;
+    width: 90%;
+    background-color: black;
+    margin-top: 150px;
+    margin-left: 90px;
+}
+
+.center__insideUp {
+    height: 50px;
+    width: 100%;
+    background-color: #fff;
+    text-align: center;
+    margin-top: -23px;
+}
+
+.center__insideDown {
+    height: 50px;
+    width: 100%;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+}
+
+.btm {
+    color: rgb(17, 15, 15);
+    height: 50px;
+    width: 200px;
+    background-color: #fff;
+    margin: 20px;
+    float: left;
+    margin-top: 25%;
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+.inpt {} */
+
+#bagua-table th {
+    text-align: center;
+    font-weight: bold;
+}
+
+#bagua-table td {
+    width: 150px;
+    white-space: nowrap;
+    text-align: center;
+    vertical-align: bottom;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.nw {
+    background: #999;
+}
+
+.n {
+    background: #03f;
+    color: #fff;
+}
+
+.ne {
+    background: #ff6;
+}
+
+.w {
+    background: #ff0;
+}
+
+.c {
+    background: #60c;
+    color: #fff;
+}
+
+.e {
+    background: #09f;
+    color: #fff;
+}
+
+.sw {
+    background: #963;
+    color: #fff;
+}
+
+.s {
+    background: #f60;
+    color: #fff;
+}
+
+.se {
+    background: #0c3;
+    color: #fff;
+}
+
+#bagua-table .highlight {
+    background: red;
+}
